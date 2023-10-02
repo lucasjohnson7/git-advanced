@@ -1,1 +1,3 @@
 This is fileB.txt
+
+Conflicting Changes
